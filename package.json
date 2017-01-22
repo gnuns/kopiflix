@@ -1,0 +1,19 @@
+{
+  "name": "kopiflix",
+  "version": "1.0.0",
+  "description": "just another torrent streaming app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnuns/kopiflix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnuns/kopiflix/issues"
+  },
+  "homepage": "https://github.com/gnuns/kopiflix#readme"
+}
