@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/gnuns/kopiflix/issues"
   },
-  "homepage": "https://github.com/gnuns/kopiflix#readme"
+  "homepage": "https://github.com/gnuns/kopiflix#readme",
+  "devDependencies": {
+    "electron": "^1.4.15"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "lodash": "^4.17.4",
+    "nightmare": "^2.9.1",
+    "request": "^2.79.0",
+    "webtorrent": "^0.98.8"
+  }
 }
